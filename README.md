@@ -1,3 +1,3 @@
 # Block Breaking Game  
-## Unityで作ったブロック崩しゲーム  
+Unityで作ったブロック崩しゲーム  
 WebGLなのでPCで遊んでください。
